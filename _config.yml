@@ -9,22 +9,22 @@ header:
     actions:
       - label: Sign Up
         url: /signup
-  title: Azimuth
+  title: Addis Studio
 footer:
   content: '&copy; Stackbit. All rights reserved.'
   has_nav: true
   has_social: true
   has_subscribe: true
   links:
-    - new_window: true
-      text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-  logo_img: images/logo_alt.png
+    - new_window: false
+      text: Website Designed by Sheger Tech
+      url: 'https://shegertech.com'
+  logo_img: /images/Cream with Cassette Tape Music Logo(2).png
   nav_title: Company
   social_title: Community
   subscribe_content: Stay up to date with our latest developments.
   subscribe_title: Subscribe
-  tagline: SaaS theme by Stackbit
+  tagline: ''
 sass:
   indentWidth: 4
   precision: 10
