@@ -11,7 +11,7 @@ header:
         url: /signup
   title: Addis Studio
 footer:
-  content: '&copy; Stackbit. All rights reserved.'
+  content: '&copy; Addis Studio. All rights reserved.'
   has_nav: true
   has_social: true
   has_subscribe: true
