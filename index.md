@@ -3,11 +3,9 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    image: images/hero.png
+    title: Online Ethiopian Music
+    content: Buy Ethiopian music for affordable price.
+    image: /images/maxresdefault.jpg
     actions:
       - label: Learn More
         url: /features
