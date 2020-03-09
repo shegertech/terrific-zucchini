@@ -5,7 +5,7 @@ sections:
     section_id: hero
     title: Online Ethiopian Music
     content: Buy Ethiopian music for affordable price.
-    image: /images/maxresdefault.jpg
+    image: /images/Cream with Cassette Tape Music Logo(2).png
     actions:
       - label: Learn More
         url: /features
