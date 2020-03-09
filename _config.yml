@@ -1,4 +1,4 @@
-title: Stackbit Azimuth Theme
+title: Addis Studio
 baseurl: /
 permalink: '/:title/'
 palette: blue
@@ -11,20 +11,20 @@ header:
         url: /signup
   title: Addis Studio
 footer:
-  content: '&copy; Addis Studio. All rights reserved.'
-  has_nav: true
-  has_social: true
+  subscribe_title: Subscribe
+  subscribe_content: Stay up to date with our latest developments.
   has_subscribe: true
+  social_title: Community
+  tagline: ''
+  logo_img: /images/Cream with Cassette Tape Music Logo(2).png
+  has_social: true
+  content: '&copy; Addis Studio. All rights reserved.'
   links:
     - new_window: false
       text: Website Designed by Sheger Tech
       url: 'https://shegertech.com'
-  logo_img: /images/Cream with Cassette Tape Music Logo(2).png
   nav_title: Company
-  social_title: Community
-  subscribe_content: Stay up to date with our latest developments.
-  subscribe_title: Subscribe
-  tagline: ''
+  has_nav: true
 sass:
   indentWidth: 4
   precision: 10
